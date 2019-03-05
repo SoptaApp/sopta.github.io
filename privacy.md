@@ -20,7 +20,7 @@ Please read this privacy policy carefully as it will help you make informed deci
 12. HOW CAN YOU CONTACT US ABOUT THIS POLICY?
   
 #### 1. WHAT INFORMATION DO WE COLLECT?
-Information automatically collected
+***Information automatically collected***  
 In Short: Some information – such as IP address and/or browser and device characteristics – is collected automatically when you visit our Apps.  
 We automatically collect certain information when you visit, use or navigate the Apps. This information does not reveal your specific identity (like your name or contact information) but may include device and usage information, such as your IP address, browser and device characteristics, operating system, language preferences, referring URLs, device name, country, location, information about how and when you use our Apps and other technical information. This information is primarily needed to maintain the security and operation of our Apps, and for our internal analytics and reporting purposes.  
 Like many businesses, we also collect information through cookies and similar technologies.  
